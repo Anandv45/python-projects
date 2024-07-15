@@ -1,0 +1,17 @@
+Language Translation Script
+  
+This repository contains a Python script designed for translating text from one language to another using the googletrans and translator modules. The script leverages the power of Google Translate to provide accurate and efficient translations between various languages.
+
+Requirements
+  
+Python 3.x
+googletrans module
+translator module
+
+Usage
+Installation: Install the required modules using pip:
+pip install googletrans==4.0.0-rc1
+pip install translator
+Running the Script: Execute the script by providing the source text, source language, and target language.
+
+Integration: The script can be imported as a module in other Python projects for seamless language translation functionality.
